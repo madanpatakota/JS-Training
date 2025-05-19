@@ -6,6 +6,6 @@ let bookName = function(){
 }
 
 console.log(bookName);
-console.dir(bookName);
+//console.dir(bookName);
 
 
