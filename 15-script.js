@@ -17,8 +17,8 @@
     }
 
     console.log("Scope1:" , fruit1); // apple
-    //console.log("Scope1:" , fruit2); // ReferenceError: fruit2 is not defined
-    //console.log("Scope1:" , fruit3); // ReferenceError: fruit3 is not defined
+   // console.log("Scope1:" , fruit2); // ReferenceError: fruit2 is not defined
+   // console.log("Scope1:" , fruit3); // ReferenceError: fruit3 is not defined
 }
 
 
@@ -28,7 +28,7 @@
 // name = "John";
 
 
-// var vs let vs const
+// var vs var vs const
 
 
 // var password =
@@ -43,7 +43,7 @@
 
 
 
-//for let var
+//for var var
 
 
 //No 1 as developer debugging technique  - issues --> how , why , what
