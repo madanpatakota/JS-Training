@@ -35,15 +35,15 @@ console.log(person.adress.city); // Accessing the city property of the adress ob
 
 let cars = [
     {
-        brand: "Toyota",
-        model: "Corolla",
-        year: 2020
-    }, 
-    {
         brand: "Honda",
         model: "Civic",
         year: 2019
     },
+    {
+        brand: "Toyota",
+        model: "Corolla",
+        year: 2020
+    }, 
     {
         brand: "Ford",
         model: "Focus",
@@ -51,6 +51,15 @@ let cars = [
     }
 ]
 
-
-
 //console.log(person);
+
+// i want ge the Launchyear of Honda  -> 2019
+
+cars[2].year // i canot get it 
+
+//let launchYear = cars.length
+
+//cars.  -> 3
+
+
+//3 - 50%
