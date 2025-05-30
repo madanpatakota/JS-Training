@@ -14,13 +14,13 @@
 
 
 
-// let isHavingGmailAccountAccess = false; 
-// if(isHavingGmailAccountAccess)
-// {
-//     console.log("GmailID:","Madan.patakota@gmail.com");
-//     console.log("GmailUserName:","Madan.patakota");
-//     console.log("GmailPassword :" , "1234567");
-// }
+let isHavingGmailAccountAccess = true; 
+if(isHavingGmailAccountAccess)
+{
+    console.log("GmailID:","Madan.patakota@gmail.com");
+    console.log("GmailUserName:","Madan.patakota");
+    console.log("GmailPassword :" , "1234567");
+}
 
 
 // let isHavingHDFCBankAccess  = true;
