@@ -6,10 +6,6 @@ let AllRecords = "https://jsonplaceholder.typicode.com/todos";  //fake apis
 
 //Asp.netcore Apis -> api names
 
-
-
-
-
 //Fetch
 
 
