@@ -14,7 +14,7 @@ class School{
 
         // your wish
 
-        
+
         // if(typeof value == "string"){
         //     this.#_sName = value;
         // }
@@ -28,10 +28,21 @@ class School{
 }
 
 let mySchool = new School(123);
+
+
+School.prototype.getTeachersDetails = function(){
+    //console.log(this.__________)
+}
+
+
+
+
 console.log(mySchool.studentName);
 
 mySchool.studentName  = "Madan";
 console.log(mySchool.studentName);
+
+mySchool.getTeachersDetails();
 
 
 
