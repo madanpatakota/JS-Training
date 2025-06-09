@@ -11,12 +11,17 @@ class School{
      }
 
      set studentName(value){
-        if(typeof value == "string"){
-            this.#_sName = value;
-        }
-        else{
-            console.log(`Please enter the string value only not the ${this.#_sName}`);
-        }
+
+        // your wish
+
+        
+        // if(typeof value == "string"){
+        //     this.#_sName = value;
+        // }
+        // else{
+        //      console.log("!!!Hey you are not madan . pleae try with madan only...")
+        //     //console.log(`Please enter the string value only not the ${this.#_sName}`);
+        // }
      }
 
 
