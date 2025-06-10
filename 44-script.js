@@ -34,9 +34,6 @@ School.prototype.getTeachersDetails = function(){
     //console.log(this.__________)
 }
 
-
-
-
 console.log(mySchool.studentName);
 
 mySchool.studentName  = "Madan";
