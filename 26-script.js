@@ -80,3 +80,10 @@ else{
 //     }
 
 
+//2 
+
+//Time lack 
+
+// 4 mins  -> 30 secs
+// Async async and await ->  4 mins
+
